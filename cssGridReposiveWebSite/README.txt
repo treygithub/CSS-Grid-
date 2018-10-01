@@ -1,0 +1,1 @@
+Designed a responsive website for fun using css grid and responsive design techneques 
